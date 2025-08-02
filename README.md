@@ -42,6 +42,6 @@ Netlify build settings:
 Base directory: project
 Build command: npm run build
 Publish directory: dist
-
+```
 Final Output
-![final](https://github.com/dineshrk2005/medical-records-and-appoinment-tracker/blob/main/Website%20Front%20Page.png?raw=true)
+![image alt](https://github.com/dineshrk2005/medical-records-and-appoinment-tracker/blob/main/Website%20Front%20Page.png?raw=true)
